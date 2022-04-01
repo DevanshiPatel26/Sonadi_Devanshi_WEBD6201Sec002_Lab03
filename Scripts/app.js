@@ -327,8 +327,8 @@
           // hide any error message
           messageArea.removeAttr("class").hide();
 
-          // redirect user to secure area - contact-list.html
-          location.href = "/contact-list";
+          // redirect user to secure area -task-list.html
+          location.href = "/task-list";
         }
         else
         {
